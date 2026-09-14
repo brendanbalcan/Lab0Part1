@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
 * Console I/O example
 *
-* @author YOUR NAME
+* @author Brendan Balcan
 */
 
 public class ConsoleIO
